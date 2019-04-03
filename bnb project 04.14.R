@@ -1,5 +1,5 @@
 #DATA EXPLORATION (loading the dataset)--------------------------
-setwd("C:/Users/Varun Srivastava/Desktop/Air BNB Project")  
+setwd("C:/Users/abcdef/Desktop/Air BNB Project")  
 train.df <- read.csv("train_users_2.csv",header=TRUE)
 age_gender.df<-read.csv("age_gender_bkts.csv", header=TRUE)
 
